@@ -1,1 +1,1 @@
-ders 1 readme dosyasında değişiklik.
+example changes 
